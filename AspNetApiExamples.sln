@@ -8,6 +8,7 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "other", "other", "{F07ABA81-410E-4A0F-AFFA-1744884EFB7A}"
 	ProjectSection(SolutionItems) = preProject
 		.gitignore = .gitignore
+		LICENSE.md = LICENSE.md
 	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericMinimalApi", "GenericMinimalApi\GenericMinimalApi.csproj", "{7F92AD46-BFDE-46D5-9786-D7F00E1E32EC}"
